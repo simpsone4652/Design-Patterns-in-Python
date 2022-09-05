@@ -1,0 +1,10 @@
+brand=Tesla
+model=S
+model year=2017
+technical=
+    power=422
+    consumption=0,0
+    fuel=eletric
+    transmission=automatic
+category=coupe
+price=400 000

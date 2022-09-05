@@ -1,0 +1,10 @@
+brand=Audi
+model=R8
+model year=2019
+technical=
+    power=620
+    consumption=16
+    fuel=petrol
+    transmission=automatic
+category=sport
+price=950k

@@ -1,0 +1,10 @@
+brand=Bugatti
+model=Veyron
+model year=2005
+technical=
+    power=1001
+    consumption=35
+    fuel=petrol
+    transmission=automatic
+category=sport
+price=950k

@@ -1,0 +1,10 @@
+brand=Audi
+model=SQ7
+model year=2016
+technical=
+    power=435
+    consumption=9
+    fuel=diesel
+    transmission=autmoatic
+category=SUV
+price=350k

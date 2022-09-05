@@ -1,0 +1,10 @@
+brand=Mercedes
+model=S65 AMG
+model year=2016
+technical=
+    power=630
+    consumption=5
+    fuel=petrol
+    transmission=automatic
+category=cabrio
+price=650k

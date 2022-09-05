@@ -1,0 +1,10 @@
+brand=BMW
+model=M8
+model year=2019
+technical=
+    power=600
+    consumption=16.5
+    fuel=petrol
+    transmission=automatic
+category=luxury
+price= 750k

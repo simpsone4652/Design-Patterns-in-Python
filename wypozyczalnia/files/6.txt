@@ -1,0 +1,10 @@
+brand=Ferrari
+model=458 Italia
+model year=2009
+technical=
+    power=570
+    consumption=27
+    fuel=petrol
+    transmission=manual
+category=sport
+price=1250kk

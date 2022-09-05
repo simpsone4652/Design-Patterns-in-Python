@@ -1,0 +1,10 @@
+brand=Lamborghini
+model=Urus
+model year=2017
+technical=
+    power=650
+    consumption=14
+    fuel=petrol
+    transmission=automatic
+category=SUV
+price= 1100000k
